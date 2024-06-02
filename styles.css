@@ -178,6 +178,10 @@ body {
     margin-bottom: 20px;
 }
 
+.experiences__company {
+    margin-bottom: 35px;
+}
+
 .experiences__company-header-durability {
     color: var(--durability-text-color);
     text-align: left;
@@ -190,7 +194,7 @@ body {
     text-decoration-color: var(--text-decoration-color);
     text-decoration-line: underline;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 3px;
 }
 
 .experiences__company-project {
